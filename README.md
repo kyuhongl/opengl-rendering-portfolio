@@ -1,3 +1,6 @@
+
+https://github.com/user-attachments/assets/e032e82c-a6f1-4f39-a385-4a31b92a422d
+
 Features Implemented:
     1) keys 1, 2, 3, 4 set the heightfield to POINT, WIREFRAME, TRIANGLE, and SMOOTHING modes respectively. 
     2) keys 9 and 0 increase/decrease (respectively) the exponent factor (in smoothing mode)
@@ -8,4 +11,6 @@ Features Implemented:
     7) EBOs and DrawElementArray were used for the wireframe and triangle mode. EBO.h and EBO.cpp added in OpenGLHelper
     8) when pressing key 'r', changes the shader to a custom fragment shader, that makes the heightfield cycle through the colors of a rainbow.
     9) pressing keys 5, 6, and/or 7 will apply a texture map onto the heightfield.
+
+
 

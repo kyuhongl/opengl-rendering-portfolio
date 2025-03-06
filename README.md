@@ -5,9 +5,7 @@ Features Implemented:
     4) holding shift and dragging changes the y-axis scale
     5) holding tab and dragging translates the camera
     6) Animation is in the root of the assignment, titled animation_complete.mp4
-    
+    7) EBOs and DrawElementArray were used for the wireframe and triangle mode. EBO.h and EBO.cpp added in OpenGLHelper
+    8) when pressing key 'r', changes the shader to a custom fragment shader, that makes the heightfield cycle through the colors of a rainbow.
+    9) pressing keys 5, 6, and/or 7 will apply a texture map onto the heightfield.
 
-Extra Credit:
-    1) EBOs and DrawElementArray were used for the wireframe and triangle mode. EBO.h and EBO.cpp added in OpenGLHelper
-    2) when pressing key 'r', changes the shader to a custom fragment shader, that makes the heightfield cycle through the colors of a rainbow.
-    3) pressing keys 5, 6, and/or 7 will apply a texture map onto the heightfield.

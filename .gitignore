@@ -1,3 +1,36 @@
-hw1/frames/*
-hw1/frames_2/*
-hw1/frames_3/*
+# Build artifacts
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.a
+*.out
+*.exe
+
+# CMake and Make build folders
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE-specific junk
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs, debugging
+*.log
+*.stackdump
+*.core
+
+# Shader compilation cache (if applicable)
+*.spv
+*.shadercache
+cache/

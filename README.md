@@ -44,6 +44,7 @@ A CPU-based raytracer that simulates light behavior in a virtual 3D scene.
 
 Preview:  
 ![raytracer render](./docs/raytracer_output.jpg)
+![raytracer render](./docs/raytracer_output2.jpg)
 
 ---
 

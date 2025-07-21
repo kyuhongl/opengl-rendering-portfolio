@@ -1,4 +1,4 @@
-﻿/*
+/*
   CSCI 420 Computer Graphics, Computer Science, USC
   Assignment 1: Height Fields with Shaders.
   C/C++ starter code
@@ -72,7 +72,7 @@ int numVertices;
 
 // textures
 GLuint textureID;
-
+2
 // recording
 int frameCount = 0;
 const int MAX_FRAMES = 150;
@@ -480,8 +480,7 @@ void displayFunc()
   float projectionMatrix[16];
   matrix.SetMatrixMode(OpenGLMatrix::Projection);
   matrix.GetMatrix(projectionMatrix);
-
-
+ 
 
   // Upload the modelview and projection matrices to the GPU. Note that these are "uniform" variables.
   // Important: these matrices must be uploaded to *all* pipeline programs used.
